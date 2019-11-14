@@ -1,0 +1,366 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\host\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\focus\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "61",
+                        "endOffsets": "114"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "3182",
+                        "endColumns": "61",
+                        "endOffsets": "3239"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\longexposure\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "15,14,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1004,880,807",
+                        "endColumns": "56,122,71",
+                        "endOffsets": "1056,998,874"
+                    },
+                    "to": {
+                        "startLines": "44,45,46",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4029,4086,4209",
+                        "endColumns": "56,122,71",
+                        "endOffsets": "4081,4204,4276"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\panorama\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "13,16,15,17,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "747,1026,934,1086,825",
+                        "endColumns": "76,58,90,101,107",
+                        "endOffsets": "819,1080,1020,1183,928"
+                    },
+                    "to": {
+                        "startLines": "32,51,52,53,54",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "3033,4516,4575,4666,4768",
+                        "endColumns": "76,58,90,101,107",
+                        "endOffsets": "3105,4570,4661,4763,4871"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\shutterspeed\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "4,8,5,6,7,3,2",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "197,450,258,322,386,130,57",
+                        "endColumns": "59,62,62,62,62,65,71",
+                        "endOffsets": "252,508,316,380,444,191,124"
+                    },
+                    "to": {
+                        "startLines": "104,105,106,107,108,109,110",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "8634,8694,8757,8820,8883,8946,9012",
+                        "endColumns": "59,62,62,62,62,65,71",
+                        "endOffsets": "8689,8752,8815,8878,8941,9007,9079"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\whitebalance\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "18,22,21,20,19,24,26,23,25,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "882,1215,1133,1047,959,1372,1548,1291,1448,802",
+                        "endColumns": "76,75,81,85,87,73,79,78,97,79",
+                        "endOffsets": "954,1286,1210,1128,1042,1441,1623,1365,1541,877"
+                    },
+                    "to": {
+                        "startLines": "80,81,82,83,84,85,86,87,88,89",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6734,6811,6887,6969,7055,7143,7217,7297,7376,7474",
+                        "endColumns": "76,75,81,85,87,73,79,78,97,79",
+                        "endOffsets": "6806,6882,6964,7050,7138,7212,7292,7371,7469,7549"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\ais\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "51",
+                        "endOffsets": "781"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "3244",
+                        "endColumns": "51",
+                        "endOffsets": "3291"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\selftimer\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "20,19,18,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "978,925,862,802",
+                        "endColumns": "54,52,62,59",
+                        "endOffsets": "1028,973,920,857"
+                    },
+                    "to": {
+                        "startLines": "99,100,101,102",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "8351,8406,8459,8522",
+                        "endColumns": "54,52,62,59",
+                        "endOffsets": "8401,8454,8517,8577"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\slowmotion\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "109",
+                        "endColumns": "62",
+                        "endOffsets": "167"
+                    },
+                    "to": {
+                        "startLines": "113",
+                        "startColumns": "4",
+                        "startOffsets": "9195",
+                        "endColumns": "62",
+                        "endOffsets": "9253"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\picturesize\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "802",
+                        "endColumns": "73",
+                        "endOffsets": "871"
+                    },
+                    "to": {
+                        "startLines": "62",
+                        "startColumns": "4",
+                        "startOffsets": "5380",
+                        "endColumns": "73",
+                        "endOffsets": "5449"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\cmm\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\97c7a590794ac0b39920a1a91f8bf5dc\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,222,335,443,528,629,757,842,924,1016,1110,1208,1302,1403,1497,1593,1689,1781,1873,1955,2062,2162,2261,2369,2476,2583,2742,2842",
+                        "endColumns": "116,112,107,84,100,127,84,81,91,93,97,93,100,93,95,95,91,91,81,106,99,98,107,106,106,158,99,81",
+                        "endOffsets": "217,330,438,523,624,752,837,919,1011,1105,1203,1297,1398,1492,1588,1684,1776,1868,1950,2057,2157,2256,2364,2471,2578,2737,2837,2919"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,98",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,222,335,443,528,629,757,842,924,1016,1110,1208,1302,1403,1497,1593,1689,1781,1873,1955,2062,2162,2261,2369,2476,2583,2742,8269",
+                        "endColumns": "116,112,107,84,100,127,84,81,91,93,97,93,100,93,95,95,91,91,81,106,99,98,107,106,106,158,99,81",
+                        "endOffsets": "217,330,438,523,624,752,837,919,1011,1105,1203,1297,1398,1492,1588,1684,1776,1868,1950,2057,2157,2256,2364,2471,2578,2737,2837,8346"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\host\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "6,7,4,5,2,19,9,10,23,22,21,24,11,8,12,13,20,15,16,3,18,17,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "362,421,218,290,107,1357,533,587,1801,1670,1604,1969,642,481,712,768,1430,955,1071,157,1267,1188,823",
+                        "endColumns": "58,59,71,71,49,72,53,54,167,130,65,88,69,51,55,54,173,115,116,60,89,78,131",
+                        "endOffsets": "416,476,285,357,152,1425,582,637,1964,1796,1665,2053,707,528,763,818,1599,1066,1183,213,1352,1262,950"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,33,37,38,48,50,90,91,92,93,94,103,111,112,115,116,117,118,120,121,122",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2842,2901,2961,3110,3385,3435,4338,4461,7554,7722,7853,7919,8008,8582,9084,9140,9359,9533,9649,9766,9894,9984,10063",
+                        "endColumns": "58,59,71,71,49,72,53,54,167,130,65,88,69,51,55,54,173,115,116,60,89,78,131",
+                        "endOffsets": "2896,2956,3028,3177,3430,3503,4387,4511,7717,7848,7914,8003,8073,8629,9135,9190,9528,9644,9761,9822,9979,10058,10190"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\cmm\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ba1e9f8c4dd9f6411a02167b6fe54364\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "114",
+                        "startColumns": "4",
+                        "startOffsets": "9258",
+                        "endColumns": "100",
+                        "endOffsets": "9354"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\videoquality\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "66",
+                        "endOffsets": "796"
+                    },
+                    "to": {
+                        "startLines": "119",
+                        "startColumns": "4",
+                        "startOffsets": "9827",
+                        "endColumns": "66",
+                        "endOffsets": "9889"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\microphone\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "56",
+                        "endOffsets": "786"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "4281",
+                        "endColumns": "56",
+                        "endOffsets": "4333"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\vsdof\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "5,6,4,3,2,8,7",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "323,399,213,109,57,585,512",
+                        "endColumns": "74,111,108,102,50,67,71",
+                        "endOffsets": "393,506,317,207,103,648,579"
+                    },
+                    "to": {
+                        "startLines": "40,41,42,43,95,96,97",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "3630,3705,3817,3926,8078,8129,8197",
+                        "endColumns": "74,111,108,102,50,67,71",
+                        "endOffsets": "3700,3812,3921,4024,8124,8192,8264"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\iso\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "802",
+                        "endColumns": "65",
+                        "endOffsets": "863"
+                    },
+                    "to": {
+                        "startLines": "61",
+                        "startColumns": "4",
+                        "startOffsets": "5314",
+                        "endColumns": "65",
+                        "endOffsets": "5375"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\scenemode\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "34,20,18,28,33,31,25,21,26,19,23,24,29,32,30,22,27,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2100,1023,875,1626,2017,1855,1389,1095,1465,949,1243,1314,1696,1943,1765,1168,1555,802",
+                        "endColumns": "88,71,73,67,82,85,73,72,87,73,70,72,66,71,87,74,68,72",
+                        "endOffsets": "2184,1090,944,1689,2095,1936,1458,1163,1548,1018,1309,1382,1758,2010,1848,1238,1619,870"
+                    },
+                    "to": {
+                        "startLines": "36,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3296,5454,5526,5600,5668,5751,5837,5911,5984,6072,6146,6217,6290,6357,6429,6517,6592,6661",
+                        "endColumns": "88,71,73,67,82,85,73,72,87,73,70,72,66,71,87,74,68,72",
+                        "endOffsets": "3380,5521,5595,5663,5746,5832,5906,5979,6067,6141,6212,6285,6352,6424,6512,6587,6656,6729"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\noisereduction\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "68",
+                        "endOffsets": "798"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "4392",
+                        "endColumns": "68",
+                        "endOffsets": "4456"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\matrixdisplay\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "738",
+                        "endColumns": "72",
+                        "endOffsets": "806"
+                    },
+                    "to": {
+                        "startLines": "60",
+                        "startColumns": "4",
+                        "startOffsets": "5241",
+                        "endColumns": "72",
+                        "endOffsets": "5309"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\antiflicker\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "20,21,18,19,17",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1029,1102,877,953,802",
+                        "endColumns": "70,70,73,75,72",
+                        "endOffsets": "1095,1168,946,1024,870"
+                    },
+                    "to": {
+                        "startLines": "55,56,57,58,59",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "4876,4947,5018,5092,5168",
+                        "endColumns": "70,70,73,75,72",
+                        "endOffsets": "4942,5013,5087,5163,5236"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\continuousshot\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "107",
+                        "endColumns": "125",
+                        "endOffsets": "228"
+                    },
+                    "to": {
+                        "startLines": "39",
+                        "startColumns": "4",
+                        "startOffsets": "3508",
+                        "endColumns": "121",
+                        "endOffsets": "3625"
+                    }
+                }
+            ]
+        }
+    ]
+}

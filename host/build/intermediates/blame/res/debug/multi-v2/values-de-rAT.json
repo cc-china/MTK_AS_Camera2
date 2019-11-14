@@ -1,0 +1,334 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\host\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de-rAT\\values-de-rAT.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\continuousshot\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "107",
+                        "endColumns": "131",
+                        "endOffsets": "234"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "780",
+                        "endColumns": "127",
+                        "endOffsets": "903"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\selftimer\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "20,19,18,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "975,917,862,802",
+                        "endColumns": "59,57,54,59",
+                        "endOffsets": "1030,970,912,857"
+                    },
+                    "to": {
+                        "startLines": "72,73,74,75",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "5365,5425,5483,5538",
+                        "endColumns": "59,57,54,59",
+                        "endOffsets": "5420,5478,5533,5593"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\microphone\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "53",
+                        "endOffsets": "783"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "1564",
+                        "endColumns": "53",
+                        "endOffsets": "1613"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\ais\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "56",
+                        "endOffsets": "786"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "500",
+                        "endColumns": "56",
+                        "endOffsets": "552"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\vsdof\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "5,6,4,3,2,8,7",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "322,400,209,108,57,591,522",
+                        "endColumns": "76,120,111,99,49,61,67",
+                        "endOffsets": "394,516,316,203,102,648,585"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,69,70,71",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "908,985,1106,1218,5185,5235,5297",
+                        "endColumns": "76,120,111,99,49,61,67",
+                        "endOffsets": "980,1101,1213,1313,5230,5292,5360"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\noisereduction\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "67",
+                        "endOffsets": "797"
+                    },
+                    "to": {
+                        "startLines": "23",
+                        "startColumns": "4",
+                        "startOffsets": "1671",
+                        "endColumns": "67",
+                        "endOffsets": "1734"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\host\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "6,7,4,5,2,19,9,10,23,22,21,24,11,8,12,13,20,15,16,3,18,17,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "348,407,212,282,107,1293,525,578,1710,1598,1536,1860,631,469,708,760,1366,938,1045,155,1221,1155,813",
+                        "endColumns": "58,61,69,65,47,72,52,52,149,111,61,87,76,55,51,52,169,106,109,56,71,65,124",
+                        "endOffsets": "402,464,277,343,150,1361,573,626,1855,1705,1593,1943,703,520,755,808,1531,1040,1150,207,1288,1216,933"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,6,11,12,22,24,64,65,66,67,68,76,84,85,87,88,89,90,92,93,94",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,164,226,372,659,707,1618,1739,4696,4846,4958,5020,5108,5598,6082,6134,6242,6412,6519,6629,6749,6821,6887",
+                        "endColumns": "58,61,69,65,47,72,52,52,149,111,61,87,76,55,51,52,169,106,109,56,71,65,124",
+                        "endOffsets": "159,221,291,433,702,775,1666,1787,4841,4953,5015,5103,5180,5649,6129,6182,6407,6514,6624,6681,6816,6882,7007"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\focus\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "3",
+                        "endColumns": "21",
+                        "endOffsets": "115"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "438",
+                        "endLines": "8",
+                        "endColumns": "21",
+                        "endOffsets": "495"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\slowmotion\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "109",
+                        "endColumns": "54",
+                        "endOffsets": "159"
+                    },
+                    "to": {
+                        "startLines": "86",
+                        "startColumns": "4",
+                        "startOffsets": "6187",
+                        "endColumns": "54",
+                        "endOffsets": "6237"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\shutterspeed\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "4,8,5,6,7,3,2",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "181,428,242,304,366,122,57",
+                        "endColumns": "59,62,60,60,60,57,63",
+                        "endOffsets": "236,486,298,360,422,175,116"
+                    },
+                    "to": {
+                        "startLines": "77,78,79,80,81,82,83",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "5654,5714,5777,5838,5899,5960,6018",
+                        "endColumns": "59,62,60,60,60,57,63",
+                        "endOffsets": "5709,5772,5833,5894,5955,6013,6077"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\scenemode\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "34,20,18,28,33,31,25,21,26,19,23,24,29,32,30,22,27,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2031,1002,870,1589,1951,1806,1354,1071,1431,936,1212,1280,1658,1882,1726,1139,1517,802",
+                        "endColumns": "101,68,65,68,79,75,76,67,85,65,67,73,67,68,79,72,71,67",
+                        "endOffsets": "2128,1066,931,1653,2026,1877,1426,1134,1512,997,1275,1349,1721,1946,1801,1207,1584,865"
+                    },
+                    "to": {
+                        "startLines": "10,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "557,2668,2737,2803,2872,2952,3028,3105,3173,3259,3325,3393,3467,3535,3604,3684,3757,3829",
+                        "endColumns": "101,68,65,68,79,75,76,67,85,65,67,73,67,68,79,72,71,67",
+                        "endOffsets": "654,2732,2798,2867,2947,3023,3100,3168,3254,3320,3388,3462,3530,3599,3679,3752,3824,3892"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\antiflicker\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "20,21,18,19,17",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1009,1077,873,941,802",
+                        "endColumns": "67,67,67,67,70",
+                        "endOffsets": "1072,1140,936,1004,868"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "2126,2194,2262,2330,2398",
+                        "endColumns": "67,67,67,67,70",
+                        "endOffsets": "2189,2257,2325,2393,2464"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\matrixdisplay\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "738",
+                        "endColumns": "70",
+                        "endOffsets": "804"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "2469",
+                        "endColumns": "70",
+                        "endOffsets": "2535"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\iso\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "802",
+                        "endColumns": "59",
+                        "endOffsets": "857"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "2540",
+                        "endColumns": "59",
+                        "endOffsets": "2595"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\longexposure\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "15,14,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "995,882,807",
+                        "endColumns": "59,111,73",
+                        "endOffsets": "1050,989,876"
+                    },
+                    "to": {
+                        "startLines": "18,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1318,1378,1490",
+                        "endColumns": "59,111,73",
+                        "endOffsets": "1373,1485,1559"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\picturesize\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "802",
+                        "endColumns": "67",
+                        "endOffsets": "865"
+                    },
+                    "to": {
+                        "startLines": "36",
+                        "startColumns": "4",
+                        "startOffsets": "2600",
+                        "endColumns": "67",
+                        "endOffsets": "2663"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\whitebalance\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "18,22,21,20,19,24,26,23,25,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "874,1192,1113,1025,943,1344,1512,1266,1418,802",
+                        "endColumns": "68,73,78,87,81,73,88,77,93,71",
+                        "endOffsets": "938,1261,1187,1108,1020,1413,1596,1339,1507,869"
+                    },
+                    "to": {
+                        "startLines": "54,55,56,57,58,59,60,61,62,63",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3897,3966,4040,4119,4207,4289,4363,4452,4530,4624",
+                        "endColumns": "68,73,78,87,81,73,88,77,93,71",
+                        "endOffsets": "3961,4035,4114,4202,4284,4358,4447,4525,4619,4691"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\setting\\videoquality\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "62",
+                        "endOffsets": "792"
+                    },
+                    "to": {
+                        "startLines": "91",
+                        "startColumns": "4",
+                        "startOffsets": "6686",
+                        "endColumns": "62",
+                        "endOffsets": "6744"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\panorama\\res\\values-de-rAT\\strings.xml",
+                    "from": {
+                        "startLines": "13,16,15,17,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "747,1012,918,1068,824",
+                        "endColumns": "75,54,92,92,92",
+                        "endOffsets": "818,1062,1006,1156,912"
+                    },
+                    "to": {
+                        "startLines": "5,25,26,27,28",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "296,1792,1847,1940,2033",
+                        "endColumns": "75,54,92,92,92",
+                        "endOffsets": "367,1842,1935,2028,2121"
+                    }
+                }
+            ]
+        }
+    ]
+}

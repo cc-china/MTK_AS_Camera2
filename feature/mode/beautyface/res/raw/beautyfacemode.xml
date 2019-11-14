@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin
+    id="beautyfaceplugin"
+    name="beautyface"
+    version="1">
+
+    <extension
+        id="beautyface"
+        name="beautyface extension"
+        class="com.freeme.camera.feature.mode.beautyface.BeautyFaceEntry"
+        plugin-id="cameraplugin"
+        point-id="FeatureEntryBase">
+    </extension>
+</plugin>

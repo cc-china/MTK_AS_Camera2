@@ -1,0 +1,158 @@
+apply plugin: 'com.android.application'
+//apply from: 'jacoco.gradle'
+
+def buildTime() {
+    return new Date().format("yyyy-MM-dd-HH-mm-ss", TimeZone.getTimeZone("GMT+8"))
+}
+
+android {
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    lintOptions {
+        abortOnError false
+    }
+    compileSdkVersion CompileSdkVersion as int
+    buildToolsVersion BuildToolsVersion
+    defaultConfig {
+        applicationId "com.xapi.camera"
+        minSdkVersion 24
+        targetSdkVersion CompileSdkVersion as int
+        multiDexEnabled true
+        versionCode 60030
+        versionName "1.1.60030"
+        renderscriptTargetApi 19
+        renderscriptSupportModeEnabled true
+        vectorDrawables.useSupportLibrary = true
+    }
+    buildTypes {
+//        debug {
+//            testCoverageEnabled true
+//        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    aaptOptions {
+        additionalParameters "--no-version-vectors"
+    }
+    sourceSets {
+        main {
+            manifest.srcFile "AndroidManifest.xml"
+            res.srcDirs = ["res",
+                           "../feature/setting/cameraswitcher/res",
+                           "../feature/setting/continuousshot/res",
+                           "../feature/setting/hdr/res",
+                           "../feature/setting/flash/res",
+                           "../feature/setting/focus/res",
+                           "../feature/setting/exposure/res",
+                           "../feature/setting/zoom/res",
+                           "../feature/setting/dualcamerazoom/res",
+                           "../feature/setting/dng/res",
+                           "../feature/setting/selftimer/res",
+                           "../feature/setting/facedetection/res",
+                           "../feature/setting/matrixdisplay/res",
+                           "../feature/setting/picturesize/res",
+                           "../feature/setting/scenemode/res",
+                           "../feature/setting/whitebalance/res",
+                           "../feature/setting/imageproperties/res",
+                           "../feature/setting/antiflicker/res",
+                           "../feature/setting/focusmode/res",
+                           "../feature/setting/microphone/res",
+                           "../feature/setting/noisereduction/res",
+                           "../feature/setting/fps60/res",
+                           "../feature/setting/eis/res",
+                           "../feature/setting/ais/res",
+                           "../feature/setting/zsd/res",
+                           "../feature/setting/iso/res",
+                           "../feature/setting/videoquality/res",
+                           "../feature/setting/aaaroidebug/res",
+                           "../feature/setting/shutterspeed/res",
+                           "../feature/mode/pip/res",
+                           "../feature/mode/vsdof/res",
+                           "../feature/mode/slowmotion/res",
+                           "../feature/mode/longexposure/res",
+                           "../feature/mode/hdr/res",
+                           "../feature/mode/panorama/res",
+                           "../feature/setting/formats/res",
+                           "../feature/setting/previewmode/res",
+                           "../feature/setting/slowmotionquality/res",
+                           "../feature/mode/dof/res",
+                           "../feature/mode/matrixdisplay/res",
+                           "../feature/mode/facebeauty/res",
+                           "../feature/mode/beautyface/res",
+                           "../feature/mode/vfacebeauty/res"]
+            assets.srcDirs =["assets"]
+            java.srcDirs = ["src",
+                            "../common/src",
+                            "../feature/setting/cameraswitcher/src",
+                            "../feature/setting/continuousshot/src",
+                            "../feature/setting/hdr/src",
+                            "../feature/setting/flash/src",
+                            "../feature/setting/focus/src",
+                            "../feature/setting/exposure/src",
+                            "../feature/setting/zoom/src",
+                            "../feature/setting/dualcamerazoom/src",
+                            "../feature/setting/superdenoise/src",
+                            "../feature/setting/dng/src",
+                            "../feature/setting/selftimer/src",
+                            "../feature/setting/facedetection/src",
+                            "../feature/setting/matrixdisplay/src",
+                            "../feature/setting/picturesize/src",
+                            "../feature/setting/postview/src",
+                            "../feature/setting/scenemode/src",
+                            "../feature/setting/whitebalance/src",
+                            "../feature/setting/imageproperties/src",
+                            "../feature/setting/antiflicker/src",
+                            "../feature/setting/focusmode/src",
+                            "../feature/setting/microphone/src",
+                            "../feature/setting/noisereduction/src",
+                            "../feature/setting/fps60/src",
+                            "../feature/setting/eis/src",
+                            "../feature/setting/ais/src",
+                            "../feature/setting/zsd/src",
+                            "../feature/setting/iso/src",
+                            "../feature/setting/videoquality/src",
+                            "../feature/setting/aaaroidebug/src",
+                            "../feature/setting/shutterspeed/src",
+                            "../feature/setting/mtkcammode/src",
+                            "../feature/mode/pip/src",
+                            "../feature/mode/vsdof/src",
+                            "../feature/mode/slowmotion/src",
+                            "../feature/mode/longexposure/src",
+                            "../feature/mode/hdr/src",
+                            "../feature/mode/panorama/src",
+                            "../feature/setting/formats/src",
+                            "../feature/setting/previewmode/src",
+                            "../feature/setting/slowmotionquality/src",
+                            "../feature/mode/dof/src",
+                            "../feature/mode/matrixdisplay/src",
+                            "../feature/mode/facebeauty/src",
+                            "../feature/mode/beautyface/src",
+                            "../feature/mode/vfacebeauty/src"]
+        }
+
+    }
+}
+
+
+afterEvaluate {
+    assembleDebug.dependsOn assembleDebugAndroidTest
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: '../common/libs')
+    implementation "com.android.support:appcompat-v7:${CompileSdkSupportVersion as int}.0.0"
+    implementation 'com.google.code.findbugs:jsr305:3.0.2'
+    implementation "com.android.support:recyclerview-v7:${CompileSdkSupportVersion as int}.0.0"
+    implementation 'com.google.guava:guava:26.0-jre'
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation "com.android.support:design:${CompileSdkSupportVersion as int}.0.0"
+    implementation files('libs/gdx.jar')
+    implementation files('libs/TuSDKCore-2.8.4.jar')
+    implementation files('libs/TuSDKFace-1.0.0.jar')
+    implementation files('libs/TuSDKVideo-1.8.0.jar')
+    implementation files('libs/universal-image-loader-1.9.4.jar')
+}

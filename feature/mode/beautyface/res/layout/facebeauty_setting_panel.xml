@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/facebeauty_layout"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/mode_button_down"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="15dp"
+            android:drawableRight="@drawable/mode_setting_pop_down" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="50dp"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/mode_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/mode_name_bg_nomal"
+                android:gravity="center"
+                android:text="@string/freeme_str_beauty"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/freeme_color_white"
+                android:visibility="invisible"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/Degree_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/mode_degree_layout_height"
+        android:background="@drawable/setting_second_pop_bg"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/mode_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/mode_bf_bar_height"
+        android:background="@drawable/setting_second_pop_bg"
+        android:orientation="horizontal">
+
+        <com.mediatek.camera.feature.mode.beautyface.RotateLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center">
+
+            <LinearLayout
+                android:id="@+id/degree_view"
+                android:layout_width="@dimen/setting_adust_view_width"
+                android:layout_height="@dimen/setting_adust_view_height"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/degreeiv"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/freeme_beauty_level" />
+
+                <TextView
+                    android:id="@+id/Degree"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center"
+                    android:singleLine="true"
+                    android:text="@string/pref_facebeauty_level_title"
+                    android:textSize="@dimen/hct_shutter_title_size"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@drawable/stretch_list_item_text_color" />
+            </LinearLayout>
+        </com.mediatek.camera.feature.mode.beautyface.RotateLayout>
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fadingEdge="none"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:id="@+id/item_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+        </HorizontalScrollView>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\src\androidTest\assets"/><source path="D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\build\generated\assets\shaders\androidTest\debug"/></dataSet><dataSet config="debug"><source path="D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\src\androidTestDebug\assets"/></dataSet></merger>

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\host\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\beautyface\\res\\values-sw360dp\\freeme_dimens.xml",
+                    "from": {
+                        "startLines": "10,22,23,25,24,5,9,7,12,11,6,13,15,14,4,8,27,28,26,3,16,19,18,17,31,30,29,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "438,1219,1277,1398,1340,157,370,274,559,500,218,623,767,696,105,317,1499,1554,1454,56,832,1029,963,900,1724,1667,1611,1102,1161",
+                        "endColumns": "61,57,62,55,57,60,67,42,63,58,55,72,64,70,51,52,54,56,44,48,67,72,65,62,54,56,55,58,57",
+                        "endOffsets": "495,1272,1335,1449,1393,213,433,312,618,554,269,691,827,762,152,365,1549,1606,1494,100,895,1097,1024,958,1774,1719,1662,1156,1214"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,175,238,294,403,464,532,575,639,698,754,827,892,963,1015,1068,1123,1180,1225,1274,1342,1415,1481,1544,1599,1656,1712,1771",
+                        "endColumns": "61,57,62,55,57,60,67,42,63,58,55,72,64,70,51,52,54,56,44,48,67,72,65,62,54,56,55,58,57",
+                        "endOffsets": "112,170,233,289,347,459,527,570,634,693,749,822,887,958,1010,1063,1118,1175,1220,1269,1337,1410,1476,1539,1594,1651,1707,1766,1824"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\beautyface\\res\\values-sw360dp\\dimensions.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "686",
+                        "endColumns": "50",
+                        "endOffsets": "732"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "352",
+                        "endColumns": "50",
+                        "endOffsets": "398"
+                    }
+                }
+            ]
+        }
+    ]
+}

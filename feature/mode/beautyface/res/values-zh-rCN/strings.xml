@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="beautyface_dialog_title">美颜</string>
+    <string name="pref_facebeauty_level_title">美颜</string>
+    <string name="pref_facebeauty_level_natural">自然</string>
+    <string name="pref_facebeauty_level_classic">经典</string>
+    <string name="pref_facebeauty_level_extreme">极致</string>
+    <string name="pref_facebeauty_level_custom">自定义</string>
+    <string name="pref_facebeauty_skin_smooth_title">磨皮</string>
+    <string name="pref_facebeauty_skin_toning_title">美肤</string>
+    <string name="pref_facebeauty_face_slim_title">瘦脸</string>
+    <string name="pref_facebeauty_eye_enlarge_title">大眼</string>
+    <string name="pref_facebeauty_ruddy_title">红润</string>
+    <string name="pref_facebeauty_eye_circles_title">去眼袋</string>
+    <string name="speech_facebeauty_on">开语音</string>
+    <string name="speech_facebeauty_off">关语音</string>
+    <string name="speech_facebeauty_tips">操作提示</string>
+</resources>
+

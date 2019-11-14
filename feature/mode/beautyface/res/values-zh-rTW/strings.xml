@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="beautyface_dialog_title">美顏</string>
+    <string name="pref_facebeauty_level_title">級別</string>
+    <string name="pref_facebeauty_level_natural">自然</string>
+    <string name="pref_facebeauty_level_classic">經典</string>
+    <string name="pref_facebeauty_level_extreme">極致</string>
+    <string name="pref_facebeauty_level_custom">自定義</string>
+    <string name="pref_facebeauty_skin_smooth_title">磨皮</string>
+    <string name="pref_facebeauty_face_slim_title">瘦臉</string>
+    <string name="pref_facebeauty_eye_enlarge_title">大眼</string>
+    <string name="pref_facebeauty_ruddy_title">紅潤</string>
+    <string name="pref_facebeauty_eye_circles_title">去眼袋</string>
+    <string name="pref_facebeauty_skin_toning_title">美膚</string>
+    <string name="speech_facebeauty_on">開語音</string>
+    <string name="speech_facebeauty_off">關語音</string>
+    <string name="speech_facebeauty_tips">操作提示</string>
+</resources>

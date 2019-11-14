@@ -1,0 +1,368 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:2:1-136:12
+INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:2:1-136:12
+INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:2:1-136:12
+INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:2:1-136:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b229c67df9ad0a2756d4b3e1e4783e01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\97c7a590794ac0b39920a1a91f8bf5dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f922657ce16cde18dcefe2b79ada8475\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\539a34aa909a9a8a8a548b83cc3a9708\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\fa3075ee4f5ea605e94ebb706e75d425\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e6d68e656fae609620eee114b9fa2395\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\678e35dd1fe2fe08db5cae059d6239d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\6d193f2071cec3e33f83ca786b57acf2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9ce9f741bda62ae462f892e053a68deb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\94860235b3d5b1af594e2898346213a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f7ef7ce5dc142bf35b0b8fc153099a2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\668b3140345c195bad8fbb43e9a794bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2c0faa3b8058d0da606958f71adf41db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a3e8ed05a75e6de8c03fa6354bd3d5c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\af0a2f119883e52720ec1454395735fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e1308a6ceadd7751a6169f42fb521aab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\066b8edaf4b0d8dbc71b4d23fa0a7e18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a6952f714f51774a5b82fb69bb1c82fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba1e9f8c4dd9f6411a02167b6fe54364\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\14add6c204703cc12c5e74389b38ed34\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\98f9992d6c480739f541a09adbc117c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\d773d6373c2d547e2b7bf68dd0d2077b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\add494b57254635d30c46370ab9e1288\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bfeca4c6484a511f3aad94a8d7db3017\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5ffdd6223b060bf70604781006d364e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c1f9798a0a071a094fda9c70d8e7d6ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c748813f4c2019be078d26338730503a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e698e7b7d62230f1f271974981efafda\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5211421a6271007aeb4e3f2b6dc04ead\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\027202455d4ad762813fcb685ce8e78b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c58655fc49b1cfbe2ba16cf6e59a0f01\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:2:1-136:12
+INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:2:1-136:12
+INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:2:1-136:12
+	package
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:3:5-34
+		INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:5:5-36
+		INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:4:5-32
+		INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml
+uses-sdk
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b229c67df9ad0a2756d4b3e1e4783e01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b229c67df9ad0a2756d4b3e1e4783e01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\97c7a590794ac0b39920a1a91f8bf5dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\97c7a590794ac0b39920a1a91f8bf5dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f922657ce16cde18dcefe2b79ada8475\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f922657ce16cde18dcefe2b79ada8475\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\539a34aa909a9a8a8a548b83cc3a9708\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\539a34aa909a9a8a8a548b83cc3a9708\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\fa3075ee4f5ea605e94ebb706e75d425\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\fa3075ee4f5ea605e94ebb706e75d425\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e6d68e656fae609620eee114b9fa2395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e6d68e656fae609620eee114b9fa2395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\678e35dd1fe2fe08db5cae059d6239d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\678e35dd1fe2fe08db5cae059d6239d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\6d193f2071cec3e33f83ca786b57acf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\6d193f2071cec3e33f83ca786b57acf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9ce9f741bda62ae462f892e053a68deb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9ce9f741bda62ae462f892e053a68deb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\94860235b3d5b1af594e2898346213a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\94860235b3d5b1af594e2898346213a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f7ef7ce5dc142bf35b0b8fc153099a2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f7ef7ce5dc142bf35b0b8fc153099a2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\668b3140345c195bad8fbb43e9a794bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\668b3140345c195bad8fbb43e9a794bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2c0faa3b8058d0da606958f71adf41db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\2c0faa3b8058d0da606958f71adf41db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a3e8ed05a75e6de8c03fa6354bd3d5c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\a3e8ed05a75e6de8c03fa6354bd3d5c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\af0a2f119883e52720ec1454395735fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\af0a2f119883e52720ec1454395735fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e1308a6ceadd7751a6169f42fb521aab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e1308a6ceadd7751a6169f42fb521aab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\066b8edaf4b0d8dbc71b4d23fa0a7e18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\066b8edaf4b0d8dbc71b4d23fa0a7e18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a6952f714f51774a5b82fb69bb1c82fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a6952f714f51774a5b82fb69bb1c82fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba1e9f8c4dd9f6411a02167b6fe54364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba1e9f8c4dd9f6411a02167b6fe54364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\14add6c204703cc12c5e74389b38ed34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\14add6c204703cc12c5e74389b38ed34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\98f9992d6c480739f541a09adbc117c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\98f9992d6c480739f541a09adbc117c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\d773d6373c2d547e2b7bf68dd0d2077b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\d773d6373c2d547e2b7bf68dd0d2077b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\add494b57254635d30c46370ab9e1288\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\add494b57254635d30c46370ab9e1288\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bfeca4c6484a511f3aad94a8d7db3017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bfeca4c6484a511f3aad94a8d7db3017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5ffdd6223b060bf70604781006d364e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5ffdd6223b060bf70604781006d364e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c1f9798a0a071a094fda9c70d8e7d6ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c1f9798a0a071a094fda9c70d8e7d6ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c748813f4c2019be078d26338730503a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c748813f4c2019be078d26338730503a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e698e7b7d62230f1f271974981efafda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e698e7b7d62230f1f271974981efafda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5211421a6271007aeb4e3f2b6dc04ead\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5211421a6271007aeb4e3f2b6dc04ead\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\027202455d4ad762813fcb685ce8e78b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\027202455d4ad762813fcb685ce8e78b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c58655fc49b1cfbe2ba16cf6e59a0f01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c58655fc49b1cfbe2ba16cf6e59a0f01\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:9:9-38
+		INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:8:9-35
+		INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_MTK_MMHW
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:18:22-71
+uses-permission#mediatek.permission.ACCESS_MTK_MMHW
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:20:22-75
+uses-permission#android.permission.SET_ANIMATION_SCALE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:21:22-75
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:22:5-84
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:22:22-81
+supports-screens
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:24:5-28:40
+	android:largeScreens
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:26:9-36
+	android:smallScreens
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:28:9-37
+	android:normalScreens
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:27:9-37
+	android:anyDensity
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:25:9-34
+application
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:30:5-135:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b229c67df9ad0a2756d4b3e1e4783e01\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\b229c67df9ad0a2756d4b3e1e4783e01\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba1e9f8c4dd9f6411a02167b6fe54364\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba1e9f8c4dd9f6411a02167b6fe54364\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\14add6c204703cc12c5e74389b38ed34\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\14add6c204703cc12c5e74389b38ed34\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\cmm\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ba1e9f8c4dd9f6411a02167b6fe54364\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:39:9-35
+	android:label
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:35:9-45
+	android:hardwareAccelerated
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:33:9-43
+	android:resizeableActivity
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:37:9-43
+	android:restoreAnyVersion
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:38:9-41
+	android:largeHeap
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:36:9-33
+	android:icon
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:34:9-50
+	android:theme
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:40:9-43
+	android:directBootAware
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:32:9-39
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:31:9-42
+activity#com.mediatek.camera.CameraActivity
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:41:9-64:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:47:13-49
+	android:clearTaskOnLaunch
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:43:13-45
+	android:label
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:45:13-49
+	android:launchMode
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:46:13-44
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:49:13-70
+	android:configChanges
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:44:13-153
+	android:taskAffinity
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:48:13-70
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:42:13-62
+intent-filter#android.intent.category.DEFAULT+android.intent.category.VOICE+android.media.action.STILL_IMAGE_CAMERA
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:50:13-55:29
+action#android.media.action.STILL_IMAGE_CAMERA
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:51:17-82
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:51:25-79
+category#android.intent.category.DEFAULT
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:53:27-73
+category#android.intent.category.VOICE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:54:17-74
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:54:27-71
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:56:13-59:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:57:25-66
+meta-data#com.android.keyguard.layout
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:61:13-63:62
+	android:resource
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:63:17-59
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:62:17-59
+activity-alias#com.mediatek.camera.CameraLauncher
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:65:9-76:26
+	android:label
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:68:13-49
+	android:targetActivity
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:69:13-72
+	android:icon
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:67:13-54
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:66:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:70:13-75:29
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:74:27-74
+activity#com.mediatek.camera.SecureCameraActivity
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:78:9-100:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:85:13-49
+	android:clearTaskOnLaunch
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:80:13-45
+	android:label
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:84:13-49
+	android:excludeFromRecents
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:82:13-46
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:87:13-70
+	android:configChanges
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:81:13-74
+	android:icon
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:83:13-54
+	android:taskAffinity
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:86:13-76
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:79:13-68
+intent-filter#android.intent.category.DEFAULT+android.media.action.STILL_IMAGE_CAMERA_SECURE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:88:13-91:29
+action#android.media.action.STILL_IMAGE_CAMERA_SECURE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:89:17-89
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:89:25-86
+intent-filter#android.intent.category.DEFAULT+android.media.action.IMAGE_CAPTURE_SECURE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:92:13-95:29
+action#android.media.action.IMAGE_CAPTURE_SECURE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:93:17-84
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:93:25-81
+activity#com.mediatek.camera.CaptureActivity
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:101:9-112:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:105:13-49
+	android:label
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:104:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:107:13-70
+	android:visibleToInstantApps
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:106:13-48
+	android:configChanges
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:103:13-153
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:102:13-63
+intent-filter#android.intent.category.DEFAULT+android.media.action.IMAGE_CAPTURE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:108:13-111:29
+action#android.media.action.IMAGE_CAPTURE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:109:17-77
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:109:25-74
+activity-alias#com.mediatek.camera.VideoCamera
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:114:9-128:26
+	android:screenOrientation
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:117:13-49
+	android:label
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:116:13-55
+	android:targetActivity
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:118:13-73
+	android:visibleToInstantApps
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:119:13-48
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:115:13-59
+intent-filter#android.intent.category.DEFAULT+android.media.action.VIDEO_CAMERA
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:120:13-123:29
+action#android.media.action.VIDEO_CAMERA
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:121:17-76
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:121:25-73
+intent-filter#android.intent.category.DEFAULT+android.media.action.VIDEO_CAPTURE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:124:13-127:29
+action#android.media.action.VIDEO_CAPTURE
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:125:17-77
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:125:25-74
+receiver#com.mediatek.camera.DisableCameraReceiver
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:129:9-133:20
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:129:19-75
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:130:13-132:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:131:17-79
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:131:25-76
+service#com.mediatek.camera.CameraAppService
+ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:134:9-53
+	android:name
+		ADDED from D:\AndroidStudio\workSpace\androidQF2Camera\Camera2\host\AndroidManifest.xml:134:18-50

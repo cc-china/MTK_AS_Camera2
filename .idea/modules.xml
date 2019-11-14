@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Camera2.iml" filepath="$PROJECT_DIR$/Camera2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camerapostalgo/camerapostalgo.iml" filepath="$PROJECT_DIR$/camerapostalgo/camerapostalgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/host/host.iml" filepath="$PROJECT_DIR$/host/host.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camerapostalgo/interface/interface.iml" filepath="$PROJECT_DIR$/camerapostalgo/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camerapostalgo/interface/java/java.iml" filepath="$PROJECT_DIR$/camerapostalgo/interface/java/java.iml" />
+    </modules>
+  </component>
+</project>

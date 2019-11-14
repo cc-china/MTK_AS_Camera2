@@ -1,0 +1,1 @@
+include ':host', ':common',":camerapostalgo:interface:java"
